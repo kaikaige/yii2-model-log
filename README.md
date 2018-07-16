@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist workerman-application/yii2-model-log "*"
+php composer.phar require --prefer-dist kaikgie/yii2-model-log "*"
 ```
 
 or add
 
 ```
-"workerman-application/yii2-model-log": "*"
+"kaikgie/yii2-model-log": "*"
 ```
 
 to the require section of your `composer.json` file.

@@ -1,5 +1,5 @@
 {
-    "name": "workerman-application/yii2-model-log",
+    "name": "kaikgie/yii2-model-log",
     "description": "一个模型的日志行为带管理工具",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
